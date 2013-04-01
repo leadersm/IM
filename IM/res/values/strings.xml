@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Demo-IM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">IM</string>
+
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="conversition">会话</string>
+    <string name="contacts">联系人</string>
+    <string name="newsfeed">动态</string>
+    <string name="settings">设置</string>
+</resources>
